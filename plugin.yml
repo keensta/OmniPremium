@@ -1,0 +1,14 @@
+name: OmniPremium
+main: com.keensta.omnipremium.OmniPremium
+version: 2.4
+author: keensta
+description: Handles premium features.
+depend: [Vault]
+
+permissions:
+       
+commands:
+   okbuypackage:
+      description: Buycraft handler
+   okremovepackage:
+      description: Buycraft handler
